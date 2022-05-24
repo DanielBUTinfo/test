@@ -21,7 +21,7 @@ public class Terrain {
         this.lireMap(25, 50);
 //        this.tuiles = lireMap(20, 25);
     }
-//szefqefze
+//szefqefzeyjdejyj
     public int codeTuile(int indiceTuile) {
         return tuiles.get(indiceTuile);
     }
